@@ -16,7 +16,7 @@ class program {
 
         scan.PrintItems();
         int total = scan.CalculateTotal();
-        Console.WriteLine($"Total: {total} kronor"); // här kalkylerar man alla varornas sammanlagda kostnad i kronor
+        Console.WriteLine($"Totalt: {total} kronor"); // här kalkylerar man alla varornas sammanlagda kostnad i kronor
         Console.ReadLine();
         
     }
